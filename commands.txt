@@ -1,0 +1,16 @@
+backend_sanity
+npm install -g @sanity/cli
+sanity init --coupon javascriptmastery2022
+sanity start
+sanity manage
+
+npx create-react-app frontend_react
+
+frontend_react
+yarn install @sanity/client @sanity/image-url framer-motion  node-sass react-icons
+yarn add react-tooltip
+yarn start
+yarn run build
+
+
+
