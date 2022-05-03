@@ -1,7 +1,6 @@
 ## Build and Deploy a Fullstack Responsive Portfolio Website
 
-[Portfolio](https://project-micael-portfolio.netlify.app/)
-
+<a href="https://project-micael-portfolio.netlify.app/" target="_blank">Portfolio</a>
 - ReactJS
 - SCSS
 - Sanity
@@ -9,6 +8,6 @@
 - Netlify 
 
 **Channel:** JavaScript Mastery
-[Video](https://www.youtube.com/watch?v=3HNyXCPDQ7Q&ab_channel=JavaScriptMastery)
+(<a href="https://www.youtube.com/watch?v=3HNyXCPDQ7Q&ab_channel=JavaScriptMastery" target="_blank">Video</a>)
 
 
